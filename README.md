@@ -1,6 +1,6 @@
-<img src = "images/bannerlogo.png">
+## Welcome 👋
 
-## Hi there 👋
+<img src = "images/bannerlogo.png">
 
 ### I'm Meaghan.
 
