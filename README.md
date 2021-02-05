@@ -2,7 +2,7 @@
 
 <img src = "images/bannerlogo.png">
 
-### I'm Meaghan.
+## I'm Meaghan.
 
 I am a full stack web developer from Richmond, VA. I am enjoy creating and building anything I can get my hands on. Get to know me more by visiting my <a href= "https://www.meaghanneylon.com/">website here</a>!
 
