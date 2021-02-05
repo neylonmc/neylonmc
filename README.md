@@ -8,16 +8,16 @@ I am a full stack web developer from Richmond, VA. I am enjoy creating and build
 
 ---
 
-### 😄 Pronouns:
+### :grey_exclamation: Pronouns:
 
     - she/they
 
-## 💼 Skills:
+### 💼 Skills:
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=red)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=red)![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=red)![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=red)![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=red)![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=red)![](https://img.shields.io/badge/Library-Express-informational?style=flat&logo=express&logoColor=white&color=red)![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=red)![](https://img.shields.io/badge/VC-Git-informational?style=flat&logo=git&logoColor=white&color=red)
 
-### Github Stats:
+### :chart_with_upwards_trend: Github Stats:
 
 [![Meaghan's github stats](https://github-readme-stats.vercel.app/api?username=neylonmc)](https://github.com/neylonmc/github-readme-stats)
 
