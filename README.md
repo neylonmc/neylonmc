@@ -4,7 +4,7 @@
 
 ## I'm Meaghan.
 
-I am a full stack web developer from Richmond, VA. I am enjoy creating and building anything I can get my hands on. Get to know me more by visiting my <a href= "https://www.meaghanneylon.com/">website here</a>!
+I am a Full Stack Web Developer from Richmond, VA. I enjoy creating and building anything I can get my hands on. Get to know me more by visiting my <a href= "https://www.meaghanneylon.com/">website here</a>!
 
 ---
 
