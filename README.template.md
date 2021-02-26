@@ -29,5 +29,5 @@ I am a full stack web developer from Richmond, VA. I am enjoy creating and build
 
 - Linkedin: <a href= "https://www.linkedin.com/in/meaghan-neylon-844b031b4/">/meaghanneylon</a>
 - Email: neylonmc@gmail.com
-- Website: wwww.meaghanneylon.com
+- Website: <a href="wwww.meaghanneylon.com">www.meaghanneylon.com</a> 
 
