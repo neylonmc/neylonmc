@@ -8,10 +8,6 @@ I am a full stack web developer from Richmond, VA. I am enjoy creating and build
 
 ---
 
-### :grey_exclamation: Pronouns:
-
-    - she/they
-
 ### 💼 Skills:
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=red)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=red)![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=red)![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=red)![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
